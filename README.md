@@ -1,5 +1,4 @@
 # Statistics & Machine Learning Deep Analysis using R & Python.
-Deep Analysis on Statistics and Machine Learning with visualization 
 
 # Setup R and Python environments
 ## R
