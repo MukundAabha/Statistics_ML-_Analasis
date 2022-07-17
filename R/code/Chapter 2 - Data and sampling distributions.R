@@ -1,6 +1,6 @@
 ## Practical Statistics for Data Scientists (R)
 ## Chapter 2. Data and Sampling Distributions
-# > (c) 2019 Peter C. Bruce, Andrew Bruce, Peter Gedeck
+
 
 # Import required R packages.
 

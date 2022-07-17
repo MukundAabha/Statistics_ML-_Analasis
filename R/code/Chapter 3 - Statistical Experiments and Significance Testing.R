@@ -1,6 +1,5 @@
 ## Practical Statistics for Data Scientists (R)
 ## Chapter 3. Statistial Experiments and Significance Testing
-# > (c) 2019 Peter C. Bruce, Andrew Bruce, Peter Gedeck
 
 # Import required R packages.
 

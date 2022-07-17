@@ -1,6 +1,5 @@
 ## Practical Statistics for Data Scientists (R)
 ## Chapter 5. Classification
-# > (c) 2019 Peter C. Bruce, Andrew Bruce, Peter Gedeck
 
 # Import required R packages.
 

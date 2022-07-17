@@ -1,6 +1,6 @@
 ## Practical Statistics for Data Scientists (R)
 ## Chapter 7. Unsupervised Learning
-# > (c) 2019 Peter C. Bruce, Andrew Bruce, Peter Gedeck
+
 
 # Import required R packages.
 
